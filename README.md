@@ -7,4 +7,4 @@
 - 🔭 I’m a senior undergraduate in <strong><a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a></strong>.
 - 🌱 Currently working on robotics and reinforcement learning.
 - 🥳 Love Cantonese pop, especially Eason Chan and Joey Yung!
-- 📫 Contact: eric2001417 [AT] gmail [DOT] com
+- 📫 Contact: dick2001417 [AT] gmail [DOT] com

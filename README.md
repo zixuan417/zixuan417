@@ -8,4 +8,4 @@
 - 🌱 Currently working on robotics and reinforcement learning.
 - 🥳 Love Cantonese pop, especially Eason Chan and Joey Yung!
 - 📫 Contact: eric2001417 [AT] gmail [DOT] com
-- 🖥️ Website: <a href="zixuan417.github.io">zixuan417.github.io</a>
+- 🖥️ Website: <a href="https://zixuan417.github.io">zixuan417.github.io</a>
